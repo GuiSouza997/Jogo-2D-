@@ -12,7 +12,7 @@
     
     - Atacar Oponente
     
-    - Gestão de estado e comportamentos do boneco
+ - Gestão de estado e comportamentos do boneco
     
-    - Personalização e utilização da plataforma Unity
+ - Personalização e utilização da plataforma Unity
     
